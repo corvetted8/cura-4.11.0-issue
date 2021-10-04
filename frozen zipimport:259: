@@ -1,0 +1,5 @@
+~$ ./Ultimaker_Cura-4.11.0.AppImage
+<frozen zipimport>:259: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+Attribute Qt::AA_UseDesktopOpenGL must be set before QCoreApplication is created.
+Cyclic dependency detected between "file:///tmp/.mount_Ultimas8emmC/usr/bin/resources/qml/Actions.qml" and "file:///tmp/.mount_Ultimas8emmC/usr/bin/resources/qml/Actions.qml"
+WARNING: Cannot find style "default" - fallback: "/tmp/.mount_Ultimas8emmC/usr/bin/qt/qml/QtQuick/Controls/Styles/Desktop"
